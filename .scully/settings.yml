@@ -1,0 +1,11 @@
+identifier: k4ydk8122a1dy3d4
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: asp-example
+homeFolder: D:\Development\private\asp-example
+distFolder: dist/asp-example
+outDir: D:\Development\private\asp-example\dist\static
+handle404: ''
+allowErrorCollect: true
